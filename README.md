@@ -1,7 +1,7 @@
 
 # Naruto Business Card Mini Project
 
-![Naruto Business Card](naruto-business-card.png)
+![Naruto Business Card]("images/naruto-business-card.png")
 
  In this project, I've learned and applied various web development concepts to create a stylish business card for Naruto, the beloved anime character. This README will provide an overview of what I've learned and accomplished in this project.
 
@@ -35,6 +35,6 @@ In this project, I created a visually appealing business card for Naruto, a well
 - CSS
 - Web-safe fonts
 - Flexbox layout
-![Naruto](naruto.jpeg)
+![Naruto](images/naruto.jpg)
 
 *Naruto Uzumaki - © Masashi Kishimoto*
